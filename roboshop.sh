@@ -3,6 +3,7 @@
 AMI_ID="ami-09c813fb71547fc4f"
 SG_ID="sg-0a06afa30bce69f67" # replace with your SG ID
 INSTANCES=("mongodb" "redis" "mysql" "rabbitmq" "catalogue" "user" "cart" "shipping" "payment" "dispatch" "frontend")
+# mongodb redis mysql rabbitmq catalogue user cart shipping payment frontend
 ZONE_ID="Z10033673H6OAQSF2Q3OH" # replace with your ZONE ID
 DOMAIN_NAME="ksrdaws84s.site" # replace with your domain
 
